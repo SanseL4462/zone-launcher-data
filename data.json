@@ -1,5 +1,5 @@
 {
-  "metadata_url": "https://example.com/metadata",
+  "metadata_url": "https://raw.githubusercontent.com/SanseL4462/zone-launcher-data/refs/heads/main/data.json",
   "update_details": {
     "drivers_version": 1.2,
     "major_update_version": 3.4,
