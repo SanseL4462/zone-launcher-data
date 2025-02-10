@@ -5,8 +5,8 @@
     "major_update_version": 3.4,
 
     "drivers_files": {
-      "dotnet9.exe": {
-        "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.102/dotnet-sdk-9.0.102-win-x64.exe",
+      "netcore8.exe": {
+        "url": "https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=8.0.0&arch=x64&rid=win-x64&os=win10",
         "driver_name": "DriverOne",
         "arg": "--driver-arg"
       }
